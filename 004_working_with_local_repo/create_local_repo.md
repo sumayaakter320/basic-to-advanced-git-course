@@ -6,7 +6,8 @@ First, open git bash and to create a folder follow the following steps -
 1. Create a folder - 'mkdir folderName`
 2. Go to that created folder - `cd folderName`
 3. Initialize the empty git repository - `git init`
-4. To know the status of your repository  - `git status` 
+
+The local git repository is created.
 ```
 
 ## For better understanding follow the pictures
