@@ -3,7 +3,7 @@
 First, open git bash and to create a folder follow the following steps -
 
 ``` markdown
-1. Create a folder - 'mkdir folderName`
+1. Create a folder - `mkdir folderName`
 2. Go to that created folder - `cd folderName`
 3. Initialize the empty git repository - `git init`
 
