@@ -9,8 +9,8 @@ First, open git bash and to create a folder follow the following steps -
 4. To know the status of your repository  - `git status` 
 ```
 
-| For better understanding follow the pictures   |
-| -------- |
-| <img src="images/create_folder.png" alt="create-folder">  |
-| <img src="images/check_folder.png" alt="check-folder"> |
-| <img src="images/git_initialized.png" alt="git-initialized">    |
+## For better understanding follow the pictures
+
+<img src="images/create_folder.png" alt="create-folder" width="45%" align="left">
+<img src="images/check_folder.png" alt="check-folder" width="45%" align="left">
+<img src="images/git_initialized.png" alt="git-initialized" width="92%">
